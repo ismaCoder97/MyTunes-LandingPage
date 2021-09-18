@@ -3,4 +3,4 @@
 
 Your Channel:https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA (Highly Recomended) Thanks a lot  I´m improving a lot with your videos... 
 
-Important to say: I´m typing all the code from the scratch just to learn how to works everyting about HTML and CSS (My best ways to learn), in a future with more experience I really hope to add some implementations to these projects (My personal brand or bussines)  
+Important to say: I´m typing all the code from the scratch just to learn how to works everyting about HTML and CSS (My best way to learn), in a future with more experience I have in mind to add some implementations to these projects (My personal brand or bussines)  
