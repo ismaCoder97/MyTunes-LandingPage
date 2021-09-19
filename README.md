@@ -1,3 +1,5 @@
+PREVIEW: https://ismacoder97.github.io/MyTunes-LandingPage/
+
 # MyTunes LandingPage
  This is my first project in the area of the Landing page... All the code is from the video:https://www.youtube.com/watch?v=GJXXf3_dcng&t=936s  of the Traversy Media Channel (The best)
 
