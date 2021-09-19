@@ -26,7 +26,7 @@
       color: #ccc;
   }
 
-
+  
   /*navigation*/
   nav{
     height: 40px;
@@ -157,7 +157,6 @@
     }
 
 
-
   /*  Showcase */
 
   #showcase{
@@ -183,6 +182,23 @@
       font-size: 2rem;
   }
 
+  /* Section*/
+  .section{
+      padding: 2rem 0;
+  }
+
+  .section-head{
+      font-size: 2.5rem;
+      margin: 0;
+  }
+
+  .section h3{
+      font-size: 2rem;
+  }
+  
+
+
+
   /* Utility Classes*/
 .container{
     max-width: 1180px;
@@ -196,3 +212,26 @@
 }
 
 
+/*Buttons*/
+.btn{
+    padding: 1rem;
+    color:#fff;
+    display: inline-block;
+}
+
+.btn-primary{
+    background: var(--primary-color);
+}
+
+.btn-primary:hover{
+    background: var(--primary-color-hover);
+}
+
+/* Text Colors*/
+.text-light{
+    color:var(--light-color);
+}
+
+.mb{
+    margin-bottom: 1rem;
+}
